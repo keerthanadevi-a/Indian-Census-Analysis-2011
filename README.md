@@ -4,4 +4,5 @@ A comprehensive evaluation of various demographic characteristics like gender, e
 A power BI report is created to visualise aspects like population in rural and urban areas, GDP, literacy rate by gender, crime rate, state and districtwise population distribution by gender, education level, employment type, age and religion, State wise forest density and map to depict the distribution.
 
 Languages used : Python.
+
 Tools used : Jupyter Notebook , Microsoft Power BI Desktop.
