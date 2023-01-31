@@ -6,3 +6,5 @@ A power BI report is created to visualise aspects like population in rural and u
 Languages used : Python.
 
 Tools used : Jupyter Notebook , Microsoft Power BI Desktop.
+
+(I've  also attached the pdf containing the images of the report)
